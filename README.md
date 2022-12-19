@@ -303,11 +303,11 @@ While it can be more complicated to attack Apple's products, detecting and mitig
 ### Don'ts
 
 * don't dual boot, as it would require disabling built-in security mechanisms for very little convenience
-* while [AsahiLinux](https://github.com/AsahiLinux/AsahiLinux.github.io) looks pretty cool, I would not recommend it in a security perspective [^1]
+* while [AsahiLinux](https://github.com/AsahiLinux/AsahiLinux.github.io) looks pretty cool, I would not recommend it in a security perspective [^2]
 * don't auto-connect to known WiFi SSIDs
 * don't put too much money on 16Go and other extra options, the base MacBook Air M1/8Go is very competitive for most usages, including dev & hacking
 * don't give admin permissions to users when it's not needed (least privilege, always)
 * don't disable security mechanisms for convenience or to install untrusted apps
 * don't use CleanMyMac and similar third-party apps: these softs are very aggressive and destructive
 
-[^1]: even the installer triggers multiple warnings and tell users installation will be done at their own risks
+[^2]: even the installer triggers multiple warnings and tell users installation will be done at their own risks
