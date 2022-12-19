@@ -56,16 +56,6 @@ _N.B.: there might be edge cases where such "crazy" behaviors could be justified
 
 Apple's products are very effective, especially M1-powered Mac and Ipad (new Apple Silicon chips). We'll see why this new paradigm has some consequences for Mac security.
 
-## Best resources
-
-* [Official doc](https://developer.apple.com/documentation)
-* [Unix privesc](https://github.com/inquisb/unix-privesc-check/)
-* [Hacktricks - macOS for hackers](https://book.hacktricks.xyz/macos-hardening)
-* [macOS security and privacy guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide)
-* [macPEAS](https://github.com/carlospolop/PEASS-ng/tree/master/linPEAS#macpeas)
-* [1njection - macOS series](https://twitter.com/1njection/status/1187393797165989888)
-* [Why is Apple's M1 so fast?](https://debugger.medium.com/why-is-apples-m1-chip-so-fast-3262b158cba2)
-
 ## Basics
 
 ### macOS is a Unix system
@@ -238,8 +228,6 @@ You need to include specific files in your payload to hook a malicious sequence 
 
 Because you've read the synthesis by Hacktricks, you know that macOS uses underscores to name its daemons and other system users. It's tempting to add a filter to your various commands to exclude all names that start with `_`, but nothing stops an attacker from creating users with the same pattern.
 
-[^1]: the Library contains folders and files for the system, like preferences and logs. It's a critical directory for your investigations.
-
 ## Hardware from a hacker's perspective
 
 ### Introduction
@@ -310,4 +298,16 @@ While it can be more complicated to attack Apple's products, detecting and mitig
 * don't disable security mechanisms for convenience or to install untrusted apps
 * don't use CleanMyMac and similar third-party apps: these softs are very aggressive and destructive
 
+
+## Best resources
+
+* [Official doc](https://developer.apple.com/documentation)
+* [Unix privesc](https://github.com/inquisb/unix-privesc-check/)
+* [Hacktricks - macOS for hackers](https://book.hacktricks.xyz/macos-hardening)
+* [macOS security and privacy guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide)
+* [macPEAS](https://github.com/carlospolop/PEASS-ng/tree/master/linPEAS#macpeas)
+* [1njection - macOS series](https://twitter.com/1njection/status/1187393797165989888)
+* [Why is Apple's M1 so fast?](https://debugger.medium.com/why-is-apples-m1-chip-so-fast-3262b158cba2)
+
+[^1]: the Library contains folders and files for the system, like preferences and logs. It's a critical directory for your investigations.
 [^2]: even the installer triggers multiple warnings and tell users installation will be done at their own risks
