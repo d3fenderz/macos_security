@@ -26,7 +26,7 @@ Nope. It's just one element of security and will only monitor incoming connectio
 
 It's non uncommon people don't even enable it.
 
-[Lulu](https://objective-see.com/products/lulu.html) is a nice and free tools that aims to block unknown **outgoing** connections. It alerts you when a program is trying to initiate an outgoing connection. You get options to block or allow it permanently or temporarily.
+[Lulu](https://objective-see.com/products/lulu.html) is a nice and free tool that aims to block unknown **outgoing** connections. It alerts you when a program is trying to initiate an outgoing connection. You get options to block or allow it permanently or temporarily.
 
 #### The Appstore is 100% safe
 
@@ -70,7 +70,7 @@ The [synthesis by Hacktricks](https://book.hacktricks.xyz/macos-hardening) is a 
 
 There are even tricks for privilege escalations, fuzzing, inspecting, and debugging.
 
-You can also check [the best resources](/documentations) to learn more advanced concepts.
+You can also check [the best resources](#best-resources) to learn more advanced concepts.
 
 ## Attacking 🥷
 
@@ -242,7 +242,7 @@ Investigators need new devices to acquire images, for example.
 
 ### M* chips
 
-You read everywhere the new Apple's chips are revolutionary and years ahead their competitors, like Intel. While the performances are undeniably impressive, not everybody knows why.
+You read everywhere the new Apple's chip is revolutionary and years ahead of its competitors, like Intel. While the performances are undeniably impressive, you might not know exactly why.
 
 M1, M2, M1 Pro, M1 Max, M1 Ultra represent different models. M1 is the less powerful chip and the oldest, but, **according to Apple**, it's still more capable that the most evolved chips in the market. You'll find it in most entry-level products like MacBook Air or Mac mini.
 
