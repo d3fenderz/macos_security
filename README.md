@@ -167,7 +167,7 @@ I'm deliberately not giving you all the details because I think you don't learn 
 
 Before typing your favorite commands on the terminal, you can use settings to get some information, for example, in settings > security & privacy > automation to see if there's anything unusual.
 
-Activity Monitor can also provides some interesting stats. However, even for a massive campaign, cybercriminals usually ensure their processes cannot be spot easily. 
+Activity Monitor also provides some interesting stats. However, even for a massive campaign, cybercriminals usually ensure their processes cannot be spot easily. 
 
 Besides, the big caveat with this menu is that you get too much information, so if you don't know where too look before, it's unlikely something will popup _automagically_. In my experience, apps that filter outgoing traffic (e.g., Lulu, Little Snitch) are more efficient to spot suspicious programs that try to connect to external servers. 
 
