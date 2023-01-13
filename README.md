@@ -159,7 +159,7 @@ The other question you should ask yourself before going further is "who's this f
 
 I'm just a senior dev, with relatively advanced knowledge in hacking-related stuff. I prefer the Blue team, especially forensics and malware analysis. These are my favorite CTFs.
 
-What follows is my personal synthesis. I've read lots of documentations, CVEs, and public reports. I've listed some of [the best resources](/documentations) for beginners in a dedicated section. Don't hesitate to check it out.
+What follows is my personal synthesis. I've read lots of documentations, CVEs, and public reports. I've listed some of [the best resources](#best-resources) for beginners in a dedicated section. Don't hesitate to check it out.
 
 I'm deliberately not giving you all the details because I think you don't learn anything by pasting commands you don't fully understand, so I prefer telling you where to look instead.
 
