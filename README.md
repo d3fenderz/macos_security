@@ -282,20 +282,20 @@ While it can be more complicated to attack Apple's products, detecting and mitig
 
 ### Dos
 
+* install apps from trusted sources only
 * keep all the things up-to-date, including apps
 * [read the blablabla](https://support.apple.com/en-us/HT211148) but cover the camera anyway, as there are very cheap and relatively thin products on the market for that
 * make regular backups on external devices or the cloud
 * encrypt the disk with [FileVault](https://support.apple.com/en-us/HT204837)
 * disable bluetooth & airdrop when you don't need them
-* don't commit `.DS_STORE` files (use a `.gitignore` for that)
-* install apps from trusted sources only
+* clean your laptop with water and a soft cloth, nothing else
 
 ### Don'ts
 
 * don't dual boot, as it would require disabling built-in security mechanisms for very little convenience
 * while [AsahiLinux](https://github.com/AsahiLinux/AsahiLinux.github.io) looks pretty cool, I would not recommend it in a security perspective [^2]
-* don't auto-connect to known WiFi SSIDs
-* don't put too much money on 16Go and other extra options, the base MacBook Air M1/8Go is very competitive for most usages, including dev & hacking
+* don't auto-connect to known WiFis and delete older registered SSIDs
+* don't put too much money on 16Go and other extra options, the base MacBook Air M1/8Go is very competitive for most usages, including dev & hacking (it's less true with M2 models)
 * don't give admin permissions to users when it's not needed (least privilege, always)
 * don't disable security mechanisms for convenience or to install untrusted apps
 * don't use CleanMyMac and similar third-party apps: these softs are very aggressive and destructive
