@@ -68,7 +68,7 @@ Unix-like and Unix systems are Unix in the end, as long as the system follows ce
 
 ### macOS fundamentals and more
 
-The [synthesis by Hacktricks](https://book.hacktricks.xyz/macos-hardening) is a master class!  Ensure you read it carefully if you want to understand macOS specificities and go to the next level.
+The [synthesis by Hacktricks](https://book.hacktricks.xyz/macos-hardening) is very comprehensive!  Ensure you read it carefully if you want to understand macOS specificities and go to the next level.
 
 There are even tricks for privilege escalations, fuzzing, inspecting, and debugging.
 
