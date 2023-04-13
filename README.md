@@ -1,6 +1,6 @@
 # macOS in blue
 
-![GitHub last commit](https://img.shields.io/github/last-commit/jmau111-org/macos_security?label=last%20update%3A)
+![GitHub last commit](https://img.shields.io/github/last-commit/d3fenderz/macos_security?label=last%20update%3A)
 
 macOS from a blue perspective 🧢
 
